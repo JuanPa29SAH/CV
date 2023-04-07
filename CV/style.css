@@ -1,0 +1,87 @@
+
+
+
+.body{
+    background-color: #D3D3D3;
+    text-align: justify;
+}
+
+
+.Titulo{
+    width: 900px;
+    height: 80px;
+}
+
+.Information {
+    display: flex;
+    text-align: justify;
+  }
+
+.Contact-information{
+    background-color: #00304E;
+    width: 400px;
+    height: auto;
+}
+
+
+.General-information{
+    background-color: #00304E;
+    width: 500px;
+    height: auto;
+}
+
+h1{
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+h2{
+    color: #5dc1b9;
+    font-size: 300%;
+    text-align: center;
+}
+
+h3{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+h4{ 
+    width: 100%;
+    color: #5dc1b9;
+    text-align: center;
+    font-size: 25px;
+}
+
+p{
+    font-size: 110%;
+    color: white;
+}
+
+h5{
+    font-size: 20px;
+    color: #5dc1b9;
+    text-align: center;
+}
+
+h6{
+    font-size: 100%;
+    color: #5dc1b9;
+    text-align: center;
+}
+
+ul{
+    font-size: 103%;
+}
+
+.Iconos{
+    display: flex;
+    align-content: center;
+
+}
